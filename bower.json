@@ -1,0 +1,23 @@
+{
+  "name": "wax-bower",
+  "version": "6.4.0",
+  "authors": [
+    "Development Seed"
+  ],
+  "description": "Bower shim for mapbox/wax",
+  "main": "wax.leaf.min.js",
+  "keywords": [
+    "mapbox",
+    "wax"
+  ],
+  "license": "BSD",
+  "homepage": "https://github.com/mapbox/wax",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
